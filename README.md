@@ -1,2 +1,2 @@
 # minhas-notas
-Anotações Mulher Digital
+Documentação de ferramentas, comandos e práticas utilizadas no programa Mulher Digital!!
